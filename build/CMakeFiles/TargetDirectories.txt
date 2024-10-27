@@ -1,0 +1,3 @@
+/home/minhpkm/FPT/Training/homework/ass_oct/MaskDetect/build/CMakeFiles/rebuild_cache.dir
+/home/minhpkm/FPT/Training/homework/ass_oct/MaskDetect/build/CMakeFiles/edit_cache.dir
+/home/minhpkm/FPT/Training/homework/ass_oct/MaskDetect/build/CMakeFiles/facedetect.dir

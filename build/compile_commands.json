@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/minhpkm/FPT/Training/homework/ass_oct/MaskDetect/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/facedetect.dir/main.cpp.o -c /home/minhpkm/FPT/Training/homework/ass_oct/MaskDetect/main.cpp",
+  "file": "/home/minhpkm/FPT/Training/homework/ass_oct/MaskDetect/main.cpp"
+}
+]
